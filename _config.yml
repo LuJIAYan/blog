@@ -10,6 +10,7 @@ paginate_path: "/page:num"
 footer_twitter: "Twitter"
 footer_twitter_site: "https://github.com/LuJIAYan"
 footer_github: "GitHub"
+footer_github_site: "https://github.com/LuJIAYan"
 footer_resume: "简历"
 footer_resume_site: "https://github.com/LuJIAYan"
 port: 8070
